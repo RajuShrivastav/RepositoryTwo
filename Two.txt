@@ -2,3 +2,5 @@ Hi,
 Lets try to study GIT Hub First Edit
 Copy of One.txt
 
+Trying to modify file 2 after staging Two.txt
+
