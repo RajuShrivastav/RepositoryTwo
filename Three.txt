@@ -2,3 +2,4 @@ Hi,
 Lets try to study GIT Hub First Edit
 Second Copy of One.txt
 
+I am not able to understand where the old version of file goes after I commit new version of a file
